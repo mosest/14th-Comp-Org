@@ -1,0 +1,26 @@
+Running: C:\Xilinx\14.6\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/register16_test_isim_beh.exe -prj C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/register16_test_beh.prj work.register16_test 
+ISim P.68d (signature 0x7708f090)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" into library work
+ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 28: <std_logic_vector> is not declared.
+ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 29: <std_logic> is not declared.
+ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 30: <std_logic> is not declared.
+ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 31: <std_logic_vector> is not declared.
+ERROR:HDLCompiler:854 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 27: Unit <register16> ignored due to previous errors.
+ERROR:HDLCompiler:374 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 34: Entity <register16> is not yet compiled.
+ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 36: <std_logic> is not declared.
+ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 37: <std_logic> is not declared.
+ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 38: <std_logic> is not declared.
+ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 39: <std_logic> is not declared.
+ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 42: <input> is not declared.
+ERROR:HDLCompiler:192 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 42: Actual of formal out port output cannot be an expression
+ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 43: <input> is not declared.
+ERROR:HDLCompiler:192 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 43: Actual of formal out port output cannot be an expression
+ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 44: <input> is not declared.
+ERROR:HDLCompiler:192 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 44: Actual of formal out port output cannot be an expression
+ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 45: <input> is not declared.
+ERROR:HDLCompiler:192 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 45: Actual of formal out port output cannot be an expression
+ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 46: <input> is not declared.
+Sorry, too many errors..

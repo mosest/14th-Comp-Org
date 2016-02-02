@@ -1,0 +1,2 @@
+vhdl work "../register16.vhd"
+vhdl work "../register16_test.vhd"
