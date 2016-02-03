@@ -49,39 +49,24 @@ BEGIN
         );
 
    -- Stimulus process
-	drive_w0 : process
+	drive : process
 		 begin
-		 wait for (tick*3);
-		 w0<= (not w0);
-		 end process drive_w0;
+		 w0  <= "0000000000000000";
+		 w1 <=  "1111111111111111";
+		 w2 <=  "0101010101010101";
+		 w3 <=  "0000000011111111";
 		 
-	drive_w1 : process
-		 begin
 		 wait for (tick*3);
-		 w1<= (not w1);
-		 end process drive_w1;
+		 s0 <= '1';
+		 wait for tick * 3;
+		 s1 <= '1';
+		 s0 <= '0';
+		 wait for tick * 3;
 		 
-	drive_w2 : process
-		 begin
-		 wait for (tick*3);
-		 w2<= (not w2);
-		 end process drive_w2;
+		 s0 <= '1';
+		 wait for tick *3;
+		 end process drive;
 		 
-	drive_w3 : process
-		 begin
-		 wait for (tick*3);
-		 w0<= (not w3);
-		 end process drive_w3;
-
-	 drive_s1 : process
-		 begin
-		 wait for (tick*20);
-		 s1<= (not s1);
-		 end process drive_s1;
-
-	 drive_s0 : process
-		 begin
-		 wait for (tick*10);
-		 s0<= (not s0);
-		 end process drive_s0;
+	
+	
 END;

@@ -35,21 +35,21 @@ BEGIN
         );
 
    -- Stimulus process
-	drive_D : process
+	drive : process
 		 begin
+		 
+		 Aclr <= '1';
 		 wait for (tick*4);
-		 D<= (not D);
-		 end process drive_D;
+		 D <= "1111111100000000";
+		 wait for tick *2;
+		 Aclr <= '0';
+		 wait for tick * 8;
+		 end process drive;
 	 
-	drive_Aclr : process
-		 begin
-		 wait for (tick*2);
-		 Aclr<= (not Aclr);
-		 end process drive_Aclr;
 	 
 	drive_Clk : process
 		 begin
-		 wait for tick;
+		 wait for tick/2;
 		 Clk<= (not Clk);
 		 end process drive_Clk;
 

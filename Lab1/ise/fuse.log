@@ -4,23 +4,15 @@ Number of CPUs detected in this system: 2
 Turning on mult-threading, number of parallel sub-compilation jobs: 4 
 Determining compilation order of HDL files
 Parsing VHDL file "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" into library work
-ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 28: <std_logic_vector> is not declared.
-ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 29: <std_logic> is not declared.
-ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 30: <std_logic> is not declared.
-ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 31: <std_logic_vector> is not declared.
-ERROR:HDLCompiler:854 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 27: Unit <register16> ignored due to previous errors.
-ERROR:HDLCompiler:374 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 34: Entity <register16> is not yet compiled.
-ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 36: <std_logic> is not declared.
-ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 37: <std_logic> is not declared.
-ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 38: <std_logic> is not declared.
-ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 39: <std_logic> is not declared.
-ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 42: <input> is not declared.
-ERROR:HDLCompiler:192 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 42: Actual of formal out port output cannot be an expression
-ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 43: <input> is not declared.
-ERROR:HDLCompiler:192 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 43: Actual of formal out port output cannot be an expression
-ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 44: <input> is not declared.
-ERROR:HDLCompiler:192 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 44: Actual of formal out port output cannot be an expression
-ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 45: <input> is not declared.
-ERROR:HDLCompiler:192 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 45: Actual of formal out port output cannot be an expression
-ERROR:HDLCompiler:69 - "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16.vhd" Line 46: <input> is not declared.
-Sorry, too many errors..
+Parsing VHDL file "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/../register16_test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity register16 [register16_default]
+Compiling architecture behavior of entity register16_test
+Time Resolution for simulation is 1ps.
+Compiled 5 VHDL Units
+Built simulation executable C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/register16_test_isim_beh.exe
+Fuse Memory Usage: 28476 KB
+Fuse CPU Usage: 686 ms

@@ -14,7 +14,7 @@ end mux;
 architecture Behavioral of mux is
 	signal s : std_logic_vector(1 downto 0);
 begin
-	s <= (s0 & s1);
+	s <= (s1 & s0);
 	with s select
 		f <= w0 when "00",
 			  w1 when "01",

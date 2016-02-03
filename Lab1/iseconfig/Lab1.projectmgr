@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!--This is an ISE project configuration file.-->
 <!--It holds project specific layout data for the projectmgr plugin.-->
 <!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
@@ -8,15 +8,16 @@
       <ClosedNodes>
          <ClosedNodesVersion>2</ClosedNodesVersion>
          <ClosedNode>/register16 - Behavioral C:|Users|Tara|Documents|GitHub|14th-Comp-Org|Lab1|register16.vhd</ClosedNode>
+         <ClosedNode>/register16 - behavioral C:|Users|Tara|Documents|GitHub|14th-Comp-Org|Lab1|register16.vhd</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>adder - Behavioral (C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/adder.vhd)</SelectedItem>
+         <SelectedItem>mux - Behavioral (C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/mux.vhd)</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000011e000000020000000000000000000000000200000064ffffffff0000008100000003000000020000011e0000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>adder - Behavioral (C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/adder.vhd)</CurrentItem>
+      <CurrentItem>mux - Behavioral (C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/mux.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -24,13 +25,13 @@
          <ClosedNode>Design Utilities</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem></SelectedItem>
+         <SelectedItem/>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem></CurrentItem>
+      <CurrentItem/>
    </ItemView>
    <ItemView guiview="File" >
       <ClosedNodes>
@@ -39,9 +40,9 @@
       <SelectedItems/>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000003a3000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000002d70000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000303000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000002370000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem></CurrentItem>
+      <CurrentItem>adder.vhd</CurrentItem>
    </ItemView>
    <ItemView guiview="Library" >
       <ClosedNodes>
@@ -51,7 +52,7 @@
       <SelectedItems/>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000003a3000000010001000100000000000000000000000064ffffffff000000810000000000000001000003a30000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem>work</CurrentItem>
    </ItemView>
@@ -59,13 +60,12 @@
       <ClosedNodes>
          <ClosedNodesVersion>2</ClosedNodesVersion>
          <ClosedNode>/adder_test - behavior C:|Users|Tara|Documents|GitHub|14th-Comp-Org|Lab1|adder_test.vhd</ClosedNode>
-         <ClosedNode>/mux_test - behavior C:|Users|Tara|Documents|GitHub|14th-Comp-Org|Lab1|mux_test.vhd</ClosedNode>
          <ClosedNode>/register16 - BEEEehavior C:|Users|Tara|Documents|GitHub|14th-Comp-Org|Lab1|register16_test.vhd</ClosedNode>
          <ClosedNode>/register16 - Behavioral C:|Users|Tara|Documents|GitHub|14th-Comp-Org|Lab1|register16.vhd</ClosedNode>
          <ClosedNode>/register16 - behHHHavior C:|Users|Tara|Documents|GitHub|14th-Comp-Org|Lab1|register16_test.vhd</ClosedNode>
          <ClosedNode>/register16 - behavior C:|Users|Tara|Documents|GitHub|14th-Comp-Org|Lab1|register16_test.vhd</ClosedNode>
          <ClosedNode>/register16 - behavioral C:|Users|Tara|Documents|GitHub|14th-Comp-Org|Lab1|register16.vhd</ClosedNode>
-         <ClosedNode>/register16_test - behavior C:|Users|Tara|Documents|GitHub|14th-Comp-Org|Lab1|register16_test.vhd</ClosedNode>
+         <ClosedNode>/register16_test - behavior C:|Users|Tara|Documents|GitHub|14th-Comp-Org|Lab1|register16_test.vhd/uut - register16 - behavioral</ClosedNode>
          <ClosedNode>/secondregister16_test - behavior C:|Users|Tara|Documents|GitHub|14th-Comp-Org|Lab1|secondregister16_test.vhd</ClosedNode>
          <ClosedNode>/testbench - behavior C:|Users|Tara|Documents|GitHub|14th-Comp-Org|Lab1|register16_test.vhd</ClosedNode>
       </ClosedNodes>
@@ -74,7 +74,7 @@
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000135000000020000000000000000000000000200000064ffffffff000000810000000300000002000001350000000100000003000000000000000100000003</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000013f000000020000000000000000000000000200000064ffffffff0000008100000003000000020000013f0000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
       <CurrentItem>register16_test - behavior (C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/register16_test.vhd)</CurrentItem>
    </ItemView>
@@ -84,13 +84,13 @@
          <ClosedNode>Design Utilities</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem></SelectedItem>
+         <SelectedItem/>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem></CurrentItem>
+      <CurrentItem/>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
       <ClosedNodes>
