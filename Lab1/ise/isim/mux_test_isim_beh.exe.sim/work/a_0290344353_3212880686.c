@@ -46,10 +46,10 @@ static void work_a_0290344353_3212880686_p_0(char *t0)
 
 LAB0:    xsi_set_current_line(17, ng0);
 
-LAB3:    t1 = (t0 + 1832U);
+LAB3:    t1 = (t0 + 1672U);
     t2 = *((char **)t1);
     t3 = *((unsigned char *)t2);
-    t1 = (t0 + 1672U);
+    t1 = (t0 + 1832U);
     t4 = *((char **)t1);
     t5 = *((unsigned char *)t4);
     t7 = ((IEEE_P_2592010699) + 4024);

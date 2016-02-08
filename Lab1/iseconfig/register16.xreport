@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2016-02-02T12:25:00</DateModified>
+  <DateModified>2016-02-07T22:35:00</DateModified>
   <ModuleName>register16</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/iseconfig/register16.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise\</ImplementationReportsDirectory>
   <DateInitialized>2016-02-02T12:24:59</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

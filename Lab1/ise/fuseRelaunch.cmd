@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/register16_test_isim_beh.exe" -prj "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/register16_test_beh.prj" "work.register16_test" 
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/mux_test_isim_beh.exe" -prj "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/mux_test_beh.prj" "work.mux_test" 

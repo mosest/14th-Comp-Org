@@ -1,13 +1,13 @@
 Command line:
    register16_test_isim_beh.exe
      -simmode  gui
-     -simrunnum  1
-     -socket  49453
+     -simrunnum  0
+     -socket  51121
 
-Tue Feb 02 13:02:57 2016
+Sun Feb 07 22:38:06 2016
 
 
- Elaboration Time: 0.124801 sec
+ Elaboration Time: 0.156 sec
 
  Current Memory Usage: 830.05 Meg
 
@@ -20,9 +20,9 @@ Tue Feb 02 13:02:57 2016
  Total Traceable Variables  : 9
  Total Scalar Nets and Variables : 395
 
- Total Simulation Time: 0.218401 sec
+ Total Simulation Time: 0.280802 sec
 
- Current Memory Usage: 672.764 Meg
+ Current Memory Usage: 830.05 Meg
 
-Tue Feb 02 13:39:58 2016
+Sun Feb 07 22:40:44 2016
 

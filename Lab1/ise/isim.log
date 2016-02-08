@@ -1,6 +1,5 @@
 ISim log file
-Running: C:\Users\Tara\Documents\GitHub\14th-Comp-Org\Lab1\ise\register16_test_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/register16_test_isim_beh.wdb 
-INFO: There is another simulation running in the same directory. Using database file name isim1.wdb.
+Running: C:\Users\Tara\Documents\GitHub\14th-Comp-Org\Lab1\ise\mux_test_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab1/ise/mux_test_isim_beh.wdb 
 ISim P.68d (signature 0x7708f090)
 ----------------------------------------------------------------------
 INFO:Security:50 - The XILINXD_LICENSE_FILE environment variable is set to '20616@license.csce.uark.edu'.
@@ -10,7 +9,7 @@ WARNING:Security:44 - Since no license file was found,
        please run the Xilinx License Configuration Manager
        (xlcm or "Manage Xilinx Licenses")
        to assist in obtaining a license.
-WARNING:Security:42 - Your license support version '2016.02' for ISIM expires in 27 days after which you will not qualify for Xilinx software updates or new releases.
+WARNING:Security:42 - Your license support version '2016.02' for ISIM expires in 22 days after which you will not qualify for Xilinx software updates or new releases.
 
 
 ----------------------------------------------------------------------
