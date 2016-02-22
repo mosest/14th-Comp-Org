@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab3/ise/register_file_isim_beh.exe" -prj "C:/Users/Tara/Documents/GitHub/14th-Comp-Org/Lab3/ise/register_file_beh.prj" "work.register_file" 
